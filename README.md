@@ -1,3 +1,5 @@
+# CPRE 288 Mars Rover Development
+
 All programming for this project was done in C in Code Composer Studio.
 
 Throughout the semester we added on more and more, progressing from Lab 1 to Lab 10.
